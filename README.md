@@ -1,4 +1,4 @@
-# Go-by-Example-cn
+# GEN
 
 Go by Example 中文翻译。
 
